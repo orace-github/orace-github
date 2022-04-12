@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ahoyhoy!
 
-<!--
-**oracegit/oracegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mr. Burns Ahoyhoy](img/mr_burns.gif)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Orace (you can call me Ora if you like).
+
+I'm a 🛡 security researcher and an incoming newtwork engineer student affiliated with the Emessarl labs in Cotonou, Benin.
+
+Here is a tl;dr for you:
+- 🇧🇯️ I'm a proud Beninese
+- 🔭 I’m currently working on eBPF applications for network controler congestion.
+- ✨ I’m looking to collaborate on anything related to Python, C, Linux, eBPF, or OS security.
+- 📫 How to reach me:
+  - email: oracekpakpo0@gmail.com
+- 😄 Pronouns: He/Him
+
