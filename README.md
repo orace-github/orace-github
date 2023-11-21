@@ -6,7 +6,7 @@
 
 My name is Orace (you can call me Ora if you like).
 
-I'm a 🛡 security researcher and an incoming network engineer student at EPAC/University of Abomey-Calavi affiliated with the Emessarl labs out of the university in Cotonou, Benin.
+I'm a 🛡 security researcher and a network engineer affiliated with the Emessarl labs in Cotonou, Benin.
 
 Here is a tl;dr for you:
 - 🇧🇯️ I'm a proud Beninese
